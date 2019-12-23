@@ -1,2 +1,2 @@
-# AirPollution
-Project that describes the air pollution level in Mexico
+# Air Pollution
+Project that describes the air pollution level, using PCA and LDA
